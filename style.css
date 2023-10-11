@@ -1,0 +1,147 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    }
+    
+    body{
+        background-image: linear-gradient(lemonchiffon, #dd371a);
+    }
+
+    .cabeçalho{
+    color: rebeccapurple;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+    }
+    
+    .cabeçalho_imagem{
+    width: 12%;
+    }
+    
+    .cabeçalho_titulo{
+    font-size: 50px;
+    }
+    
+    .cabeçalho_lista_item{
+    margin: 25px 0px 25px 0px;
+    font-size: 20px;
+    }
+
+    .apresentaçao_trabalho{
+        font-size: 25px;
+    display: flex;
+    justify-content: left;    
+    padding: -20%;
+   margin:  auto
+    }
+    
+    .texto1{
+       font-size: 25px;
+    }
+
+    .texto2{
+        font-size: 25px;
+     }
+
+    .titulo_apresentaçao_trabalho{
+    font-size: 35px;
+    color: blueviolet;
+    }
+
+    .imagem_arvore{
+        padding: 15%;
+        position: relative;
+        margin: -190px -100px 1500px -130px;
+        justify-content: baseline ;
+        display: flex;
+        width: 30%
+    }
+
+    .Titulo1{
+        font-size: 25px;
+        color: black
+    }
+   
+   
+ 
+
+    .akat{
+        font-size: 30px;
+        justify-content: center;
+       margin: -450px 00px -450px 90px;
+        color: rgb(126, 11, 235)
+    }
+    
+    .sla{
+        justify-content: center;
+        margin: 300px -100px 40px 10px;
+    }
+
+    .pimentinha{
+        padding: 15%;
+        justify-content: left;
+        margin: -800px -800px -789px -05px;
+        width: 23%;
+    }
+    
+    .Texto3{
+        
+        font-size: 25px;
+    }
+    
+    .Texto4{
+        
+   font-size: 25px;
+    }
+
+    .Texto5{
+        
+   font-size: 25px;
+    }
+
+    .link-pimentinha{
+        font-size: 25px;
+    }
+
+    .semente{
+    width:  35%;
+    padding: 15%;
+    position: relative;
+    margin: -1500px 400px 400px 670px;
+    justify-content: baseline ;
+    display: flex;
+    }
+  
+    .suculentas{
+        width:  35%;
+    padding: 15%;
+    position: relative;
+    margin: 600px -200px -100px 600px ;
+    justify-content: baseline ;
+    display: flex;
+    }
+
+    .salcinha{
+        width:  15%;
+        padding: 15%;
+        position: relative;
+        margin: -1090px -300px 300px 870px;
+        justify-content: baseline ;
+        display: flex;
+    }
+
+    .akat2{
+        color: blueviolet;
+        margin: 100px 10px -100px 500px;
+    }
+
+    .foto24{
+        width: 20% ;
+        margin: -8700px 300px 1500px 470px;
+    }
+
+    .bambu{
+        width: 15%;
+        margin: -190px -300px 300px 1000px;;
+    }   
