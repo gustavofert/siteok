@@ -117,7 +117,7 @@
         width:  35%;
     padding: 15%;
     position: relative;
-    margin: 600px -200px -100px 600px ;
+    margin: 680px 200px 100px -200px ;
     justify-content: baseline ;
     display: flex;
     }
@@ -126,7 +126,7 @@
         width:  15%;
         padding: 15%;
         position: relative;
-        margin: -1090px -300px 300px 870px;
+        margin: -1310px -300px 300px 870px;
         justify-content: baseline ;
         display: flex;
     }
@@ -138,10 +138,12 @@
 
     .foto24{
         width: 20% ;
-        margin: -8700px 300px 1500px 470px;
+        margin: -8900px 3000px 1500px 270px;
     }
 
     .bambu{
         width: 15%;
-        margin: -190px -300px 300px 1000px;;
+        margin: -390px -350px 300px 1080px;;
     }   
+
+
